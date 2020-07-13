@@ -6,6 +6,7 @@ Bir kaç dip not geçmek isterim bunlar önemli
 
 3- json.Sqlite silin
 
+4- shrinkwrap.yaml silin
 
 bu tarz şeyleri yaptıktan sonra 
 
